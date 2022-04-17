@@ -83,21 +83,21 @@ LeetCode Solutions in C#
 - Merge Intervals 
 
 ## References
-https://libaoj.in/LeetCode-Solutions/#dynamic-programming
-https://libaoj.in/LeetCode-Solutions/DP/DP.pdf
-https://hecodesit.com/
-https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
-https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/
-https://www.youtube.com/watch?v=DIR_rxusO8Q
-https://www.udemy.com/course/leetcode-solutions-using-algorithms-and-data-structure-in-c/learn/lecture/30691080#overview
-https://leetcode.com/discuss/interview-question/1945396/Microsoft-or-Online-Coding-Test-or-Next-Greater-Integer
-https://seanprashad.com/leetcode-patterns/
-https://github.com/BigEggStudy/LeetCode-CS#Problems-001-050
-https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/344-reverse-string.html
-https://www.programcreek.com/2012/12/leetcode-solution-of-single-number-in-java/
-https://aaronice.gitbook.io/lintcode/string/rotate-string
-https://www.reddit.com/r/leetcode/comments/s4p6am/how_to_get_a_job_at_microsoft_using_leetcode/
-https://github.com/jiajionline/LeetcodeSolutionWithMultipleLanguages
-https://github.com/ramakanthd92/LeetCode
-https://github.com/codingwhite/geeksforgeeks-as-books
+- https://libaoj.in/LeetCode-Solutions/#dynamic-programming
+- https://libaoj.in/LeetCode-Solutions/DP/DP.pdf
+- https://hecodesit.com/
+- https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
+- https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/
+- https://www.youtube.com/watch?v=DIR_rxusO8Q
+- https://www.udemy.com/course/leetcode-solutions-using-algorithms-and-data-structure-in-c/learn/lecture/30691080#overview
+- https://leetcode.com/discuss/interview-question/1945396/Microsoft-or-Online-Coding-Test-or-Next-Greater-Integer
+- https://seanprashad.com/leetcode-patterns/
+- https://github.com/BigEggStudy/LeetCode-CS#Problems-001-050
+- https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/344-reverse-string.html
+- https://www.programcreek.com/2012/12/leetcode-solution-of-single-number-in-java/
+- https://aaronice.gitbook.io/lintcode/string/rotate-string
+- https://www.reddit.com/r/leetcode/comments/s4p6am/how_to_get_a_job_at_microsoft_using_leetcode/
+- https://github.com/jiajionline/LeetcodeSolutionWithMultipleLanguages
+- https://github.com/ramakanthd92/LeetCode
+- https://github.com/codingwhite/geeksforgeeks-as-books
 
