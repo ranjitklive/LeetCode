@@ -17,6 +17,7 @@ namespace LeetCode
         }
     }
 
+    //Given an array, find the smallest positive integer > 0
     public class Solution
     {
         public int solution(int[] A)
