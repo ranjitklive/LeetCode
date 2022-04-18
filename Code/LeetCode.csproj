@@ -34,7 +34,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ParticleStability.cs" />
+    <Compile Include="FrogBlocks.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="SmallestMissingPositive.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

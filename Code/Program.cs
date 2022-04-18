@@ -1,56 +1,33 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode
 {
     public static class Program
     {
-        public static void Main()
-        {
-            Solution s = new Solution();
+        //// Smallest positive missing number
+        //public static void Main()
+        //{
+        //    int[] arr = { 0, 10, 2, -10, -20 };
+        //    int arr_size = arr.Length;
+        //    int missing = SmallestMissingPositive.FindMissing(arr, arr_size);
+        //    Console.WriteLine("The smallest positive missing number is " + missing);
+        //}
 
-            int sol = s.solution(new int[] { 1, 3, 4, 1 });
+        //// Largest distance between blocks
+        //public static void Main()
+        //{
+        //    //int[] arr = { 2, 6, 8, 7 };
+        //    int[] arr = { 1, 5, 5, 2, 6 };
+        //    int answer = FrogBlocks.LargestDistanceBetweenBlocks(arr);
+        //    Console.WriteLine("The largest distance between blocks is " + answer);
+        //}
 
-            Console.WriteLine(sol);
-        }
-    }
-
-    //Given an array, find the smallest positive integer > 0
-    public class Solution
-    {
-        public int solution(int[] A)
-        {
-            int returnVal = -1;
-
-            if (A != null && A.Length <= 100000)
-            {
-                // write your code in C# 6.0 with .NET 4.5 (Mono)
-                List<int> numbers = new List<int>();
-
-                for (int i = 0; i < A.Length; i++)
-                {
-                    numbers.Add(A[i]);
-                }
-
-                A = numbers.Distinct().OrderBy(t=>t).ToArray();
-
-                for (int i = 0; i < A.Length; i++)
-                {
-                    if (i + 1 == A[i])
-                    {
-                        continue;
-                    }
-                    else
-                    {
-                        returnVal = i + 1;
-                        break;
-                    }
-                }
-            }
-
-            return returnVal;
-        }
+        ////Find all period where particle stability is found
+        //public static void Main()
+        //{
+        //    int[] arr = { -1, 1, 3, 3, 3, 2, 3, 2, 1, 0 };
+        //    int answer = ParticleStability.CountParticleStablity(arr);
+        //    Console.WriteLine("The periods where particle stability is found is " + answer);
+        //}
     }
 }
