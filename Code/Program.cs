@@ -4,10 +4,14 @@ namespace LeetCode
 {
     public static class Program
     {
+        public static void Main()
+        {
+        }
+
         //// Smallest positive missing number
         //public static void Main()
         //{
-        //    int[] arr = { 0, 10, 2, -10, -20 };
+        //    int[] arr = { 1, 3, 2, -10, -20 };
         //    int arr_size = arr.Length;
         //    int missing = SmallestMissingPositive.FindMissing(arr, arr_size);
         //    Console.WriteLine("The smallest positive missing number is " + missing);
